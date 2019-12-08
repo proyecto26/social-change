@@ -18,7 +18,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Impuestos e inversión social
 > La única forma de saber como optimizar nuestros recursos es logrando ver donde se está invirtiendo la plata del pueblo, necesitamos ver en donde se está invirtiendo, quienes son los encargados y si es un contrato justo comparando las empresas locales.
 ### Necesidades del pueblo
-> El pueblo debería priorizar los problemas sociales a través de un voto (like) popular, debería poder comentar y darle reconocimiento por su buena labor.
+> El pueblo debería priorizar los problemas sociales a través de un voto virtual (like) popular, debería poder comentar y darle reconocimiento por su buena labor.
 ### Pobreza e ignorancia
 > Unos pocos controlan al resto, necesitamos gente más sabia, más educada, necesitamos avanzar juntos y dejar de recurrir a la violencia, menos gente tirando piedras, muriendo en guerras y más inquietos mirando hacia el espacio, hacia lo desconocido.
 ### Gremios laborales y Universidades
