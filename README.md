@@ -1,5 +1,5 @@
 # Declaración de Independencia de la Humanidad
-La independencia esta justificada por los abusos de todos los gobiernos del mundo, de la política que oprime al pueblo cuando esta no es en beneficio de la humanidad. Los abusos son de todo tipo, entre los cuales podemos evidenciar:
+La independencia esta justificada por los abusos de todos los gobiernos del mundo, de la política que oprime al pueblo cuando esta no es en beneficio de la humanidad. Los abusos son de todo tipo, entre los cuales podemos distinguir:
 - Guerras que benefician a unos cuantos.
 - Violencia territorial a través de barreras geográficas.
 - Corrupción social.
