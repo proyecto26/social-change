@@ -24,7 +24,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Gremios laborales y Universidades
 > Hay muchos gremios con poca demanda laboral, necesitamos líderes de cada gremio, quienes alcen la voz por su gremio laboral, es necesario ampliar su demanda para generar competencia justa, es necesario crear nuevas necesidades que se ajusten a los problemas sociales actuales.
 ### Tecnología al servicio del hombre
-> Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino.
+> Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino (Leyes que nos ayuden a pensar en las personas).
 ### Barreras geográficas
 > Necesitamos unirnos como humanidad para resolver los problemas del hoy, empezando por la separación territorial impuesta por los gobiernos de todo el mundo, la tecnología rompe esas fronteras y debemos superar esas barreras con nuestro ejemplo.
 ### Futuro de la humanidad
