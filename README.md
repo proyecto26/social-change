@@ -16,7 +16,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Transparencia política
 > Un servidor público debe ser Open Source, totalmente abierto (YouTuber, etc) para evitar corrupción, chantaje, amenazas e inseguridad, necesitamos un monitoreo constante de todos y para todos.
 ### Impuestos e inversión social
-> La única forma de saber como optimizar nuestros recursos es logrando ver donde se está invirtiendo la plata del pueblo, necesitamos ver en donde se está invirtiendo, quienes son los encargados y si es un contrato justo comparando las empresas locales.
+> La única forma de saber como optimizar nuestros recursos es logrando ver donde se está invirtiendo la plata del pueblo, necesitamos ver en donde se está invirtiendo, quienes son los encargados y si son contratos justos comparando las empresas locales.
 ### Necesidades del pueblo
 > El pueblo debería priorizar los problemas sociales a través de un voto virtual (like) popular, debería poder comentar, calificar y darle reconocimiento a los que hagan una buena labor para todos.
 ### Pobreza e ignorancia
