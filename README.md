@@ -14,7 +14,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### No tenemos memoria
 > Hay mucha desinformación, se nos olvida nuestra historia, necesitamos una fuente confiable de la verdad (Single source of truth), reporteros y periodistas que confirmen de manera pública los hechos, en un mismo espacio. Los medios de comunicación deben ser nuestros aliados, debemos compartir, no competir.
 ### Transparencia política
-> Un servidor público debe ser Open Source, totalmente abierto (YouTuber, etc) para evidar corrupción, chantaje y cualquier otro sistema de corrupción, necesitamos un monitoreo constante.
+> Un servidor público debe ser Open Source, totalmente abierto (YouTuber, etc) para evitar corrupción, chantaje, amenazas e inseguridad, necesitamos un monitoreo constante de todos y para todos.
 ### Impuestos e inversión social
 > La única forma de saber como optimizar nuestros recursos es logrando ver donde se está invirtiendo la plata del pueblo, necesitamos ver en donde se está invirtiendo, quienes son los encargados y si es un contrato justo comparando las empresas locales.
 ### Necesidades del pueblo
