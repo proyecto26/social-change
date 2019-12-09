@@ -12,7 +12,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Sistema corrupto
 > No hacemos política, solucionamos los problemas mediante la tecnología, así que nuestra postura debe ser neutra, porque buscamos lo mismo.
 ### No tenemos memoria
-> Hay mucha desinformación, se nos olvida nuestra historia, necesitamos una fuente confiable de verdad (Single source of truth), reporteros y periodistas que confirmen de manera pública los hechos, en un mismo espacio. Los medios de comunicación deben ser nuestros aliados, debemos compartir, no competir.
+> Hay mucha desinformación, se nos olvida nuestra historia, necesitamos una fuente confiable de la verdad (Single source of truth), reporteros y periodistas que confirmen de manera pública los hechos, en un mismo espacio. Los medios de comunicación deben ser nuestros aliados, debemos compartir, no competir.
 ### Transparencia política
 > Un servidor público debe ser Open Source, totalmente abierto (YouTuber, etc) para evidar corrupción, chantaje y cualquier otro sistema de corrupción, necesitamos un monitoreo constante.
 ### Impuestos e inversión social
