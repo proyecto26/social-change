@@ -10,9 +10,9 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 
 ## Problemas Sociales 🚨
 ### Sistema corrupto
-> No hacemos política, solucionamos los problemas mediante la tecnología.
+> No hacemos política, solucionamos los problemas mediante la tecnología, así que nuestra postura debe ser neutra, porque buscamos lo mismo.
 ### No tenemos memoria
-> Hay mucha desinformación, se nos olvida nuestra historia, necesitamos una fuente confiable de verdad (Single source of truth), reporteros y periodistas que confirmen de manera pública los hechos.
+> Hay mucha desinformación, se nos olvida nuestra historia, necesitamos una fuente confiable de verdad (Single source of truth), reporteros y periodistas que confirmen de manera pública los hechos, en un mismo espacio. Los medios de comunicación deben ser nuestros aliados, debemos compartir, no competir.
 ### Transparencia política
 > Un encargado público debe ser Open Source, totalmente abierto (YouTuber) para evidar corrupción, chantaje y cualquier otro sistema de corrupción.
 ### Impuestos e inversión social
@@ -26,7 +26,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Tecnología al servicio del hombre
 > Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino.
 ### Barreras geográficas
-> Necesitamos unirnos como humanidad para resolver los problemas del hoy, empezando por la separación territorial impuesta por los gobiernos de todo el mundo, la tecnología rompe esas fronteras.
+> Necesitamos unirnos como humanidad para resolver los problemas del hoy, empezando por la separación territorial impuesta por los gobiernos de todo el mundo, la tecnología rompe esas fronteras y debemos superar esas barreras con nuestro ejemplo.
 ### Futuro de la humanidad
 > Unos creen que la destrucción es el camino, lo cierto es que lo difícil es ponernos los pantalones para generar soluciones inteligentes que nos permitan avanzar como humanidad a un siguiente nivel, donde todos somos partes importantes de un mismo sistema, hay que aprovechar que somos muchos para hacer más.
 ### Recursos y Espacio exterior
