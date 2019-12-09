@@ -1,5 +1,5 @@
 # Declaración de Independencia de la Humanidad
-La independencia esta justificada por los abusos de todos los gobiernos del mundo, de la política que oprime al pueblo cuando esta no es en beneficio de la humanidad. Los abusos son de todo tipo, entre los cuales podemos distinguir:
+La independencia esta justificada por los abusos de los gobiernos del mundo, cuando la política oprime al pueblo y no está en beneficio de la humanidad. Los abusos son de todo tipo, entre los cuales podemos distinguir:
 - Guerras que benefician a unos cuantos.
 - Violencia territorial a través de barreras geográficas.
 - Corrupción social.
@@ -22,9 +22,9 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ### Pobreza e ignorancia
 > Unos pocos controlan al resto, necesitamos gente más sabia, más educada, necesitamos avanzar juntos y dejar de recurrir a la violencia, menos gente tirando piedras, muriendo en guerras y más inquietos mirando hacia el espacio, hacia lo desconocido.
 ### Gremios laborales y Universidades
-> Hay muchos gremios con poca demanda laboral, necesitamos líderes de cada gremio, quienes alcen la voz por su gremio laboral, es necesario ampliar su demanda para generar competencia justa, es necesario crear nuevas necesidades que se ajusten a los problemas sociales actuales.
+> Hay muchos gremios con poca demanda laboral, necesitamos líderes de cada gremio, quienes alcen la voz por su gremio laboral, es necesario ampliar su demanda para generar competencia justa, es necesario crear nuevas necesidades que se ajusten a los problemas sociales actuales, generar oportunidad para todos.
 ### Tecnología al servicio del hombre
-> Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino (Leyes que nos ayuden a pensar en las personas).
+> Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino (Definir leyes que nos ayuden a pensar en las personas).
 ### Barreras geográficas
 > Necesitamos unirnos como humanidad para resolver los problemas del hoy, empezando por la separación territorial impuesta por los gobiernos de todo el mundo, la tecnología rompe esas fronteras y debemos superar esas barreras con nuestro ejemplo.
 ### Futuro de la humanidad
