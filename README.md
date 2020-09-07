@@ -41,6 +41,8 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 ## Juntos hacemos más, juntos somos más! 🌐
 Gracias por hacer del mundo un mejor lugar para todos, el cambio comienza hoy, sé parte del cambio! 🙏
 
+<img src="https://pbs.twimg.com/media/EhRkYVHXsAAmSPd?format=jpg&name=large" alt="Together we do more, together we are more ❤️" width="260" />
+
 Made with ❤️
 
 <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
