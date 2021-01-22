@@ -38,6 +38,14 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 - Investigación, desarrollo e innovación.
 > Sé parte del cambio social, hay mucho por resolver. Critica menos a otros y cuestiona más lo que puedes hacer, porque para que todo mejore primero tenemos que empezar a cambiar nosotros mismos.
 
+## Contributing ✨
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
+You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/social-change/blob/master/CONTRIBUTING.md).
+
+## License ⚖️
+This repository is available under the [MIT License](https://github.com/proyecto26/social-change/blob/master/LICENSE).
+
 ## Juntos hacemos más, juntos somos más! 🌐
 Gracias por hacer del mundo un mejor lugar para todos, el cambio comienza hoy, sé parte del cambio! 🙏
 
