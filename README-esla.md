@@ -6,7 +6,7 @@ La independencia esta justificada por los abusos de los gobiernos del mundo, cua
 - Manipulación a través de la ignorancia.
 - Destrucción como salida ante los problemas sociales.
 
-Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/proyecto26/social-change/issues)** para manifestar los problemas sociales que hay en tu comunidad y déjanos saber como podemos mejorar mediante un **[Pull Request](https://github.com/proyecto26/social-change/pulls)**.
+Esta carta se encuentra en desarrollo, publica un **[Problema](https://github.com/proyecto26/social-change/issues)** para manifestar los problemas sociales que hay en tu comunidad y déjanos saber como podemos mejorar mediante una **[Solicitud de cambio](https://github.com/proyecto26/social-change/pulls)**.
 
 ## Problemas Sociales 🚨
 ### Sistema corrupto
@@ -23,7 +23,7 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 > Unos pocos controlan al resto, necesitamos gente más sabia, más educada, necesitamos avanzar juntos y dejar de recurrir a la violencia, menos gente tirando piedras, muriendo en guerras y más inquietos mirando hacia el espacio, hacia lo desconocido.
 ### Gremios laborales y Universidades
 > Hay muchos gremios con poca demanda laboral, necesitamos líderes de cada gremio, quienes alcen la voz por su gremio laboral, es necesario ampliar su demanda para generar competencia justa, es necesario crear nuevas necesidades que se ajusten a los problemas sociales actuales, generar oportunidad para todos.
-### Tecnología al servicio del hombre
+### Tecnología al servicio de la humanidad
 > Necesitamos definir límites de lo que pueden hacer las empresas con la tecnología, definir responsabilidades y enseñar nuevas necesidades donde el ser humano no vaya a ser reemplazado por una máquina, necesitamos guiar a la humanidad hacía un nuevo camino (Definir leyes que nos ayuden a pensar en las personas).
 ### Barreras geográficas
 > Necesitamos unirnos como humanidad para resolver los problemas del hoy, empezando por la separación territorial impuesta por los gobiernos de todo el mundo, la tecnología rompe esas fronteras y debemos superar esas barreras con nuestro ejemplo.
@@ -38,19 +38,19 @@ Esta carta se encuentra en desarrollo, publica un **[Issue](https://github.com/p
 - Investigación, desarrollo e innovación.
 > Sé parte del cambio social, hay mucho por resolver. Critica menos a otros y cuestiona más lo que puedes hacer, porque para que todo mejore primero tenemos que empezar a cambiar nosotros mismos.
 
-## Contributing ✨
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
-You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/social-change/blob/master/CONTRIBUTING.md).
+## Contribuyendo ✨
+Al contribuir a este repositorio, primero discuta el cambio que desea realizar a través de un problema, correo electrónico o cualquier otro método con los propietarios de este repositorio antes de realizar un cambio.
+Las contribuciones son las que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que haga e **realmente apreciada** ❤️.
+Puede obtener más información sobre cómo puede contribuir a este proyecto en la [guía de contribución](https://github.com/proyecto26/social-change/blob/master/CONTRIBUTING.md).
 
-## License ⚖️
-This repository is available under the [MIT License](https://github.com/proyecto26/social-change/blob/master/LICENSE).
+## Licencia ⚖️
+Este repositorio está disponible bajo la [licencia MIT](https://github.com/proyecto26/social-change/blob/master/LICENSE).
 
 ## Juntos hacemos más, juntos somos más! 🌐
 Gracias por hacer del mundo un mejor lugar para todos, el cambio comienza hoy, sé parte del cambio! 🙏
 
 <img src="https://pbs.twimg.com/media/EhRkYVHXsAAmSPd?format=jpg&name=large" alt="Together we do more, together we are more ❤️" width="260" />
 
-Made with ❤️
+Hecho con ❤️
 
 <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
