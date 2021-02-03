@@ -40,7 +40,7 @@ Esta carta se encuentra en desarrollo, publica un **[Problema](https://github.co
 
 ## Contribuyendo ✨
 Al contribuir a este repositorio, primero discuta el cambio que desea realizar a través de un problema, correo electrónico o cualquier otro método con los propietarios de este repositorio antes de realizar un cambio.
-Las contribuciones son las que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que haga e **realmente apreciada** ❤️.
+Las contribuciones son las que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que haga es **totalmente apreciada** ❤️.
 Puede obtener más información sobre cómo puede contribuir a este proyecto en la [guía de contribución](https://github.com/proyecto26/social-change/blob/master/CONTRIBUTING.md).
 
 ## Licencia ⚖️
